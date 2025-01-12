@@ -22,7 +22,7 @@ A simple application to download YouTube videos and audio in various formats and
    - Select the video resolution or proceed with the audio download.  
 
 ## Screenshot  
-![YouTube Downloader Screenshot](screenshot.png)  
+![YouTube Downloader Screenshot](Screenshot.png)  
 
 ## License  
 This project is licensed under the [MIT License](LICENSE).  
