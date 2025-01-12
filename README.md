@@ -28,8 +28,7 @@ A simple application to download YouTube videos and audio in various formats and
 This project is licensed under the [MIT License](LICENSE).  
 
 ## Notes  
-- Video resolution availability depends on the YouTube video.  
-- Make sure you have permission to download content before using the app.  
+- Video resolution availability depends on the YouTube video.   
 
 ## Disclaimer  
 This app is for personal use only. The developer is not responsible for any misuse of this application.  
